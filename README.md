@@ -1,4 +1,4 @@
-#Notedly-Web
+# Notedly-Web
 ## Directory Structure
 
 - `/src` If you are following along with the book, this is the directory where you should perform your development.
